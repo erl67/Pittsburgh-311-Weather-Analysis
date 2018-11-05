@@ -6,6 +6,8 @@ Python Data Analysis Project
 
 WX Data: https://darksky.net/dev/docs#time-machine-request
 
+JSON Diff: http://www.jsondiff.com/ - useful for verifying json and identifying missing fields
+
 Date Range: 01JAN2017 - 31DEC2017
 
 
